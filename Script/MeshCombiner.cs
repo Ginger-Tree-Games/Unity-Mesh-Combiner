@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/**********************************
+ *Author: Emmett Hale 
+ * 
+ *Purpose: A simple mesh combiner that conserves material types
+ **********************************/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
