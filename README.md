@@ -1,2 +1,2 @@
 # Unity Mesh Combiner
- A Simple Mesh Combiner Unity Script
+ A simple mesh combiner Unity script and Editor
